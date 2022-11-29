@@ -8,11 +8,11 @@ Replace the path where you want to export your file
 Example of the export:
 
 https://www.reddit.com/r/AndroidTV/
+
 https://www.reddit.com/r/announcements/
+
 https://www.reddit.com/r/AskReddit/
-https://www.reddit.com/r/CalvinKleins/
-https://www.reddit.com/r/cardano/
+
 https://www.reddit.com/r/careerguidance/
-https://www.reddit.com/user/XXXXX/
-https://www.reddit.com/user/XXXXX/
+
 https://www.reddit.com/user/XXXXX/
